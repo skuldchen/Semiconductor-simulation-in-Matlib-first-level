@@ -42,3 +42,4 @@ for x=1:LotNum
     end
 end
 disp(LotSum);% end of simulation
+
